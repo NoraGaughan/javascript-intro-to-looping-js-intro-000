@@ -13,4 +13,4 @@ function forLoop(array) {
   function whileLoop(number) {while (number > 0) {console.log(number--)} return "done"
   }
   
-  function whileLoop(number) 
+  function doWhileLoop(number) {do {[console.log("I run once regardless")]; while (doWhileLoop() < 10); } 
