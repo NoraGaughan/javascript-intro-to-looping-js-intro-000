@@ -1,1 +1,1 @@
-function forLoop (let i=0; i < 25; i++) {console.log forLoop}
+for (let i=0; i <25; i++) {console.log(i)}
