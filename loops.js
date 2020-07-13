@@ -3,4 +3,4 @@ function forLoop(array) {for (let i=0; i < 25; i++)
 else {array[i] = `I am ${i} strange loops.`} 
 }
 }
-console.log(Array) 
+console.log(Array) return array } 
