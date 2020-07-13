@@ -10,4 +10,6 @@ function forLoop(array) {
     return array
   }
   
-  function whileLoop(n) 
+  function whileLoop(n) {while (num > 0) {console.log(num) num -=1}
+  }
+  
